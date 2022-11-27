@@ -4,7 +4,7 @@ This simple string finder was made in July 2020.
 
 It allows you to find strings released by a program in a third-party process using [Process Hacker](https://processhacker.sourceforge.io).
 
-## How to use**
+## How to use
 
 *   Clones this repository into a folder.
 *   Choose the process in which you want to search for strings.
