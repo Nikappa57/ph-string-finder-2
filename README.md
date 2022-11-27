@@ -1,10 +1,10 @@
-## Simple Process Hacker String Finder (V2)
+# Simple Process Hacker String Finder (V2)
 
 This simple string finder was made in July 2020.
 
 It allows you to find strings released by a program in a third-party process using [Process Hacker](https://processhacker.sourceforge.io).
 
-> **How to use**
+## How to use**
 
 *   Clones this repository into a folder.
 *   Choose the process in which you want to search for strings.
@@ -13,7 +13,7 @@ It allows you to find strings released by a program in a third-party process usi
     (more files means better results, but it will naturally take more time)
 *   Once you have all your files ready in the respective folders, you can launch the program
 
-```plaintext
+```console
 python3 run.py
 ```
 
